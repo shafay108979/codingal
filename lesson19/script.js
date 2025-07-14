@@ -5,7 +5,7 @@ var a = 167
 var b = "shafay"
 var d = true
 var d = "mercedes"
-var ankushgupta = {printhisage: 24}
+var hassanumer = {printhisage: 28}
 
 console.log(a)
-console.log(ankushgupta.printhisage)
+console.log(hassanumer.printhisage)
