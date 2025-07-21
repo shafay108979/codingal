@@ -12,4 +12,5 @@ console.log(Math.floor(b))
 let is
 for(i=0; i<100; i++){
     console.log("Shafay")
+    
 }

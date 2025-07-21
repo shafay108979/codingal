@@ -9,3 +9,9 @@ var hassanumer = {printhisage: 28}
 
 console.log(a)
 console.log(hassanumer.printhisage)
+
+
+
+
+
+
