@@ -12,4 +12,4 @@ var e = c.join(" $ ")
 console.log(e)
 
 c.push(680)
-console.log(c)
+console.log(c) 
