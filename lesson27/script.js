@@ -9,3 +9,6 @@ console.log(a)
 a.sort((a,b)=> b- a)
 
 console.log(a)
+
+var b = a.map(e=>e*10)
+console.log(b)
