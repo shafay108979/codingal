@@ -12,8 +12,7 @@ class Healthy_Fruits extends Fruit{
     constructor(name, taste, color, size, price, benefit,vitaminlist){
         super(name,taste,color,size,price)
         this.benefit = benefit
-        this.vitaminlist = vitaminlist
-    }
+        this.vitaminlist = vitaminlist7
 }
 
 const a = new Fruit('Apple','sweet', 'red', 'medium', 200)
